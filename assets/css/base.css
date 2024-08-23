@@ -13,7 +13,6 @@
 }
 body{
     background-color: #eee;
-    height: 5000px;
     font-family: var(--mainfont);
 }
 .row{
